@@ -39,3 +39,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# project docs / reference
+INDEX_HTML_BREAKDOWN.md
+project-rules
+PROJECT_STRUCTURE.md
+need-copy-project/
